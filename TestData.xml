@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DeltaHRMS>
+	<UserName>DTMS1448</UserName>
+	<Password>staging@123</Password>
+	<employee>
+		<UserName>DTMS1355</UserName>
+		<Password>staging@123</Password>
+	</employee>
+</DeltaHRMS>
