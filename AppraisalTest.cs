@@ -32,7 +32,6 @@ namespace DeltaHRMS.build2
             SelfAppraisalPage sap = new SelfAppraisalPage(driver);
             sap.SetRatingforSelfAppraisal();
 
-            SelfAppraisalPage sap1;
         }
     }
 }
